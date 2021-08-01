@@ -1,6 +1,6 @@
 # Bioinformatics
 
-## PCA grahp
+## PCA graph
 ![alt text](https://github.com/Jean-HOW/bioinfo-vis/blob/main/pca.png)
 
 ## Heatmap
