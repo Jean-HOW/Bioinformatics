@@ -3,7 +3,7 @@ anno <- read.table("Annotation.csv",
                    check.names = F,
                    stringsAsFactors = F,
                    sep = ",",
-                   na.strings = c("","NA")
+                   na.strings = c("","NA"))
                    
 melt_anno <- melt(anno,
                   id = `Subsystem Features`)
