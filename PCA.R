@@ -1,6 +1,6 @@
 # PCA plot
 
-pcs12 <- read.table("C:/Users/jean1/Monash/Year3/sem2/BIN3800/data/merge_v3_PCA20.eigenvec")
+pcs12 <- read.table("merge_v3_PCA20.eigenvec")
 head(pcs12)
 colnames(pcs12) <- c("Populations", "ID", "PC1", "PC2")
 head(pcs12)
